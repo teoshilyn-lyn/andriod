@@ -1,0 +1,6 @@
+ru/mirea/kuznetsovaA/internalfilestorage/MainActivity.java
+ ru.mirea.kuznetsovaA.internalfilestorage.MainActivity
+ ru.mirea.kuznetsovaA.internalfilestorage.MainActivity$1
+ ru.mirea.kuznetsovaA.internalfilestorage.MainActivity$1$1
+ru/mirea/kuznetsovaA/internalfilestorage/BuildConfig.java
+ ru.mirea.kuznetsovaA.internalfilestorage.BuildConfig

@@ -1,0 +1,6 @@
+ru/mirea/kuznetsovaA/notebook/MainActivity.java
+ ru.mirea.kuznetsovaA.notebook.MainActivity
+ ru.mirea.kuznetsovaA.notebook.MainActivity$1
+ ru.mirea.kuznetsovaA.notebook.MainActivity$1$1
+ru/mirea/kuznetsovaA/notebook/BuildConfig.java
+ ru.mirea.kuznetsovaA.notebook.BuildConfig
